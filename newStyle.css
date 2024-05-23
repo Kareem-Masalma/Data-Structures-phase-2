@@ -1,0 +1,74 @@
+.root {
+  -fx-background-color: #718355;
+  background-color: #718355;
+}
+
+.menu-bar {
+  -fx-background-color: #000;
+  background-color: #000;
+}
+
+.menu .text {
+  -fx-fill: #fff;
+  fill: #fff;
+}
+
+.menu-item {
+  -fx-background-color: #718355;
+  background-color: #718355;
+}
+
+.menu-item:hover {
+  -fx-background-color: #b5c99a;
+  background-color: #b5c99a;
+}
+
+.button {
+  -fx-background-color: #b5c99a;
+  background-color: #b5c99a;
+  -fx-min-width: 50px;
+  min-width: 50px;
+}
+
+.button:hover {
+  -fx-background-color: #87986a;
+  background-color: #87986a;
+}
+
+.table-view {
+  -fx-background-color: #718355;
+  background-color: #718355;
+}
+
+.table-header-background {
+  -fx-background-color: #000;
+  background-color: #000;
+}
+
+.table-row-cell {
+  -fx-background-color: #97a97c;
+  background-color: #97a97c;
+}
+
+.table-head {
+  -fx-background-color: #fff;
+  background-color: #fff;
+}
+
+.table-cell .text {
+  -fx-fill: #fff;
+  fill: #fff;
+}
+
+.text-field {
+  -fx-pref-width: 200px;
+}
+
+.table-view .column-header {
+  -fx-background-color: #000;
+  background-color: #000;
+}
+
+.label {
+  -fx-text-fill: #fff;
+}
